@@ -11,7 +11,7 @@
   "author": "Hugo Bastås",
   "license": "MIT",
   "devDependencies": {
-    "elm-port-schema": "^0.1.0",
+    "elm-port-schema": "^0.1.2",
     "elm-webpack-loader": "^6.0.1",
     "html-webpack-plugin": "^4.2.0",
     "ts-loader": "^7.0.0",
