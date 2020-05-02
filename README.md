@@ -14,7 +14,7 @@ Make sure `elm` is installed.
 
 Clone this repo:
 ```
-git@github.com:hugobastas/elm-port-schema-starter.git
+git clone https://github.com/hugobastas/elm-port-schema-starter.git
 ```
 
 Install all the npm packages:
